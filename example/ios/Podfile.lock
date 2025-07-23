@@ -1,6 +1,6 @@
 PODS:
   - Flutter (1.0.0)
-  - sound_stream (0.0.1):
+  - sound_stream (0.1.0):
     - Flutter
 
 DEPENDENCIES:
@@ -15,8 +15,8 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
-  sound_stream: 747e461fc6924caab1afc28c186b41f04f3bea76
+  sound_stream: da51a14584a120d7e7e0aeaa1e0748217d235bea
 
-PODFILE CHECKSUM: 075ddf6b19cdcced44581bd8fbdfb58404a78f8a
+PODFILE CHECKSUM: 7b0d07bdbe0a21e4c70e8292d899831b73ebdedb
 
-COCOAPODS: 1.15.2
+COCOAPODS: 1.16.2
